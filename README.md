@@ -23,7 +23,7 @@ Options:
   --bullmq-prefix [prefix...]  BullMQ prefix (default: [])
   --bull-prefix [prefix...]    Bull prefix (default: [])
   --redis-host <host>          Redis host (default: "localhost")
-  --redis-port <host>          Redis port (default: 6379)
+  --redis-port <port>          Redis port (default: 6379)
   --redis-password <password>  Redis password
   -h, --help                   display help for command
 ```
